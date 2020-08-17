@@ -1,5 +1,5 @@
 # speech-recognition-app
-### This just a basic browser assistant which recognizes user's speech and does some minimal operations
+### This is just a basic browser assistant which recognizes user's speech and does some minimal operations
 ### Steps to use
 #### By clicking on microphone icon the microphone gets activated and you can speak any following commands
 
