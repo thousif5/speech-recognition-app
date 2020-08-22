@@ -7,7 +7,6 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Open Sans', sans-serif;
-    outline: none;
 }
 
 a {
@@ -62,6 +61,7 @@ a {
     justify-content: center;
     border-radius: 55px;
     border : 0;
+    outline: none;
 }
 
 #mic-logo {
