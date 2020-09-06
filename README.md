@@ -1,6 +1,6 @@
 # speech-recognition-app
 ### This is just a basic browser assistant which recognizes user's speech and does some minimal operations
-### Steps to use
+### Steps to use:
 #### By clicking on microphone icon the microphone gets activated and you can speak any following commands
 
 - If you speak 'open + {any website}' it will open the respective website in new tab (* not all websites only popular sites like YouTube, Google, Instagram, Amazon, Gmail, Netflix etc.)
